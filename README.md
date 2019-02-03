@@ -4,8 +4,8 @@
 Details
 -------
 
-**Class**: Software Design
-**Instructor**: Tom Skinner
-**Framework**: C# and .NET
-**Development Environment**: Microsoft Visual Studio
+**Class**: Software Design  
+**Instructor**: Tom Skinner  
+**Framework**: C# and .NET  
+**Development Environment**: Microsoft Visual Studio 
 
